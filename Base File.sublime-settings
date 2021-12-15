@@ -1,0 +1,7 @@
+/*
+    GitAhead default settings
+*/
+{
+    // gitahead executable path
+    "gitahead_path": "/home/smartone/GitAhead/GitAhead/GitAhead"
+}
