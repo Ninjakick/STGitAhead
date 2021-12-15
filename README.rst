@@ -8,7 +8,7 @@ Installing
 
 **Using Git:** Clone the repository in your Sublime Text Packages directory and restart Sublime Text:
 
-    git clone https://github.com/djsegal/GitAhead
+    git clone https://github.com/Ninjakick/STGitAhead
 
 **Using the Package Control plugin:** The easiest way to install GitAhead is through Package Control,
 which can be found at http://wbond.net/sublime_packages/package_control .
@@ -36,7 +36,7 @@ Sample user key binding to execute the command::
 
 Changelog
 ---------
-v0.1 (01-04-2011):
+v0.1 (15-12-2021):
 
 * Initial version
 
